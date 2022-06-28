@@ -1,5 +1,30 @@
 /* Add your css here */
 
-.avatar {
-  width: 300px;
+.avatar1 {
+  width: 375px;
+  height: 500px;
+}
+.avatar2 {
+  width: 45px;
+  height: 30px;
+}
+.avatar3 {
+  width: 55px;
+  height: 40px;
+}
+.avatar4 {
+  width: 30px;
+  height: 30px;
+}
+.avatar5 {
+  width: 95px;
+  height: 45px;
+}
+.avatar6 {
+  width: 76px;
+  height: 50px;
+}
+
+.body {
+   background-color: red;
 }
